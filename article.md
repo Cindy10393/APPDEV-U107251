@@ -50,14 +50,14 @@ Python has a wide range of libraries available that provide additional functiona
 ---
 Python functions are blocks of code that can be reused multiple times. A function is defined using the def keyword, followed by the function name and a set of parentheses. The code inside the function is executed when the function is called.
 
-For example, the following code defines a function called greet that prints a message:
+For example, the following code defines a function called main that prints a message:
 
 ```python
-def greet(name):
-    print(f"Hello, {name}")
-greet("John")
+def main(name):
+    print(f"Hello World, {name}")
+main("Cindy")
 ```
-When the code is run, it will print "Hello, John".
+When the code is run, it will print "Hello World, Cindy".
 # Built-in Functions
 ---
 Python has a variety of built-in functions that can be used to perform a wide range of tasks, such as:
