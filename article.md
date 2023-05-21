@@ -88,7 +88,7 @@ Here are some helpful resources for learning more about Python:
 ---
 *Article content is generated using ChatGPT.*
 
-Lorem ipsum dolor sit amet
+
 
 
 
